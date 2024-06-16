@@ -26,3 +26,14 @@ Dept - the department number
 Date - the week
 Weekly_Sales -  sales for the given department in the given store
 IsHoliday - whether the week is a special holiday week
+
+# Working Flow :
+In order to create a model these are the following procedure -
+
+Split the dataset in 80% of Train set and 20% of Test Set
+
+Feature engineering
+
+Check the classification report
+
+Determine the training score
